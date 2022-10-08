@@ -1,0 +1,2 @@
+# University-Writings
+In this Repo, I share all my writings/notes which I have done in the Lectures. I try to update/maintain this repository every Saturday or Sunday. The Complete Document is written in Latex. Because of the Overview especially when it comes to code some snippets are outsourced in separate files which are also part of this Repo.
